@@ -20,3 +20,49 @@ Epoch 9 [3.5 s]	loss=0.4821 [0.0 s]
 39169
 Epoch 10 [3.5 s]	loss=0.4384, map=0.0055, prec@1=0.0024, prec@5=0.0021, prec@10=0.0019, recall@1=0.0012, recall@5=0.0053, recall@10=0.0097, [1289.9 s]
 
+Namespace(train_root='datasets/amazon3/test/train.txt', test_root='datasets/amazon3/test/test.txt', L=5, T=3, n_iter=50, seed=1234, batch_size=512, learning_rate=0.001, l2=1e-06, neg_samples=3, use_cuda=True)
+Namespace(d=50, nv=4, nh=16, drop=0.5, ac_conv='relu', ac_fc='relu', L=5)
+total training instances: 163597
+8999
+39169
+Epoch 1 [45.1 s]	loss=1.1624 [0.0 s]
+Epoch 2 [3.4 s]	loss=1.0234 [0.0 s]
+Epoch 3 [3.4 s]	loss=0.9018 [0.0 s]
+Epoch 4 [3.5 s]	loss=0.7948 [0.0 s]
+Epoch 5 [3.3 s]	loss=0.7129 [0.0 s]
+Epoch 6 [3.3 s]	loss=0.6428 [0.0 s]
+Epoch 7 [3.3 s]	loss=0.5830 [0.0 s]
+Epoch 8 [3.4 s]	loss=0.5302 [0.0 s]
+Epoch 9 [3.4 s]	loss=0.4835 [0.0 s]
+8999
+40121
+8999
+39169
+Epoch 10 [3.4 s]	loss=0.4406, map=0.0051, prec@1=0.0020, prec@5=0.0018, prec@10=0.0019, recall@1=0.0010, recall@5=0.0044, recall@10=0.0093, [1329.7 s]
+Epoch 11 [3.6 s]	loss=0.4056 [0.0 s]
+Epoch 12 [3.3 s]	loss=0.3739 [0.0 s]
+Epoch 13 [3.3 s]	loss=0.3443 [0.0 s]
+Epoch 14 [3.4 s]	loss=0.3173 [0.0 s]
+Epoch 15 [3.4 s]	loss=0.2947 [0.0 s]
+Epoch 16 [3.4 s]	loss=0.2739 [0.0 s]
+Epoch 17 [3.4 s]	loss=0.2538 [0.0 s]
+Epoch 18 [3.4 s]	loss=0.2364 [0.0 s]
+Epoch 19 [3.3 s]	loss=0.2219 [0.0 s]
+8999
+40121
+8999
+39169
+Epoch 20 [3.4 s]	loss=0.2074, map=0.0043, prec@1=0.0016, prec@5=0.0016, prec@10=0.0013, recall@1=0.0008, recall@5=0.0041, recall@10=0.0066, [1341.0 s]
+Epoch 21 [3.5 s]	loss=0.1952 [0.0 s]
+Epoch 22 [3.5 s]	loss=0.1843 [0.0 s]
+Epoch 23 [3.7 s]	loss=0.1742 [0.0 s]
+Epoch 24 [3.5 s]	loss=0.1642 [0.0 s]
+Epoch 25 [3.5 s]	loss=0.1570 [0.0 s]
+Epoch 26 [3.5 s]	loss=0.1495 [0.0 s]
+Epoch 27 [3.4 s]	loss=0.1433 [0.0 s]
+Epoch 28 [3.6 s]	loss=0.1382 [0.0 s]
+Epoch 29 [3.5 s]	loss=0.1335 [0.0 s]
+8999
+40121
+8999
+39169

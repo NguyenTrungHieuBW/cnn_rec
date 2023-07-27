@@ -285,8 +285,8 @@ torch.version
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     # data arguments
-    parser.add_argument('--train_root', type=str, default='datasets/amazon3/test/train.txt')
-    parser.add_argument('--test_root', type=str, default='datasets/amazon3/test/test.txt')
+    parser.add_argument('--train_root', type=str, default='datasets/amazon4/test/train.txt')
+    parser.add_argument('--test_root', type=str, default='datasets/amazon4/test/test.txt')
     parser.add_argument('--L', type=int, default=5)
     parser.add_argument('--T', type=int, default=3)
     # train arguments
